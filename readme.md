@@ -10,12 +10,15 @@
 * Project 4
 * Mid-term
 
-## 3. Running the Code 
-The respective readmes inside the folders have the instructions on how to run the code 
-## Future To-DO
+## 2. Running the Code 
+Each folder has a readme on how to run the code.The source files are also included within the folders.
+## Future To-Do
 *  Optimize the code 
 *  Improve Results 
 ## Notes:
 * The outputs may not be perfectly accurate. 
+
+## Support 
+For any issues, please open a issue on github.
 
 
