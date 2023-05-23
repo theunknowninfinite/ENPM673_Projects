@@ -8,6 +8,7 @@
 * Project 2
 * Project 3
 * Project 4
+* Mid-term
 
 ## 3. Running the Code 
 The respective readmes inside the folders have the instructions on how to run the code 
